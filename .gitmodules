@@ -1,0 +1,3 @@
+[submodule "CMakeCompileQtProject"]
+	path = CMakeCompileQtProject
+	url = git@github.com:GlLamant/CMakeCompileQtProject.git
